@@ -1,5 +1,5 @@
 # android-fun
-====================
+====================  
 This is a repository for the Android Fun course! It will contain several assignments regarding Android apps and features.
 
 # Built With
